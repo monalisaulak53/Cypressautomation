@@ -1,0 +1,6 @@
+Gender,Firstname,Lastname,DateofBirth,Email,CompanyName,Password,Confirmpassword
+Male,Alish,ulak,1/5/1996,alish@gmail.com,Info Development,Mon@123,Mon@123
+Male,Sagar,Shakya,1/6/1992,sagar@gmail.com,Infi dev,S@gar123,S@gar123
+Female,Mona,Ulak,1/7/1996,monali.ulak@gmail.com,XYZ,XYZ@123,XYZ@123
+Female,Mery,Ulak,5/8/1996,mery@gmail.com,ABC,ABC@123,ABC@123
+Male,Binam,Shrestha,5/9/1996,binam@gmail.com,DEF ,DEF@123,DEF@123
